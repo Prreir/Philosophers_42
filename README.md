@@ -4,7 +4,7 @@
 <a href="https://github.com/Prreir/Philosophers_42/blob/main/Extra/Subject.pdf" >Subject</a> access! 
 
 <h2 align="left"> Demostration: </h2>
-![](./Extras/Philo.gif)
+![ ](https://github.com/Prreir/Philosophers_42/blob/main/Extra/Philo.gif)
 
 #### Makefile Available Targets:  
 `make` or `make all` - Makes _client_ and _server_  
